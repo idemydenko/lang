@@ -1,0 +1,15 @@
+node_modules/
+npm-debug.log
+target/
+.classpath
+.project
+.settings/
+/bin/
+build/
+.gradle/
+/*.iml
+.idea/
+/*.ipr
+
+# my ssh port forwarding script
+ssh-port-forwarding.sh
